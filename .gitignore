@@ -1,6 +1,7 @@
 datasets/
 images/
 videos/
+instance/
 *.h5
 *.npy
 MANIFEST
